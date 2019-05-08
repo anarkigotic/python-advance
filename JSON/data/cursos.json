@@ -1,0 +1,11 @@
+[
+    {
+        "nombre": "juan david",
+        "slug": "python",
+        "duracion": "3 horas"
+    },
+    {
+        "nombre": "Go",
+        "slug": "go"
+    }
+]
